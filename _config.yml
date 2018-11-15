@@ -1,10 +1,10 @@
 # Site settings
-title: HunterArley Blog
-SEOTitle: 黄晓磊的博客 | HunterArley Blog
+title: 诩之忆
+SEOTitle: 诩之忆
 header-img: img/blog_index_bg.jpg
 email: 18200399036@163.com
 description: "Every failure is leading towards success."
-keyword: "HunterArley Blog"
+keyword: "诩之忆"
 url: "http://hunterarley.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hunterarley/hunterarley.github.io.git" # you code repository
